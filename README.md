@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
+# Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
  
